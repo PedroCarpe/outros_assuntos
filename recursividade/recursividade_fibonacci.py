@@ -1,4 +1,4 @@
-'https://www.mathsisfun.com/numbers/fibonacci-sequence.html'#APF:Usar uma estrutura de pilha, para inserir os numeros.
+'https://www.mathsisfun.com/numbers/fibonacci-sequence.html'
 
 def fibonacci(num,l):
     lista = l
